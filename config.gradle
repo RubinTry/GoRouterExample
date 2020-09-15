@@ -31,5 +31,5 @@ dependencies{
     annotationProcessor  'cn.rubintry:gorouter-compiler:1.0.5'
     kapt  'cn.rubintry:gorouter-compiler:1.0.5'
     implementation 'cn.rubintry:gorouter-annotation:1.0.3'
-    implementation 'cn.rubintry:gorouter-api:1.0.15'
+
 }
